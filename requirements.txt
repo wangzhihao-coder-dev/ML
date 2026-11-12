@@ -1,0 +1,20 @@
+# DATA70121 Coursework: EDA & Regression
+# Install with:  pip install -r requirements.txt
+# Versions pinned to the environment used to produce the report.
+
+# Data handling
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+
+# Statistics and modelling
+statsmodels==0.15.0
+scikit-learn==1.9.1
+
+# Plotting
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Report building (coursework/build_report.py)
+Markdown==3.11.3
+Pygments==2.21.0
